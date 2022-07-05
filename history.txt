@@ -1,0 +1,21 @@
+13
+cd test
+cd ..
+cd ..
+cd ~
+quit
+cd ..
+cry
+fg 23 45 56
+cd ~
+gedit &
+gedit
+echo  hey man
+quit
+cd ..
+cd ..
+cd -
+cd ~
+cd -
+cd ~
+quit
